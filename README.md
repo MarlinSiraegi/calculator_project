@@ -70,8 +70,7 @@ calculator_project/
 │   └── test_utils.py
 ├── LICENSE.txt
 ├── README.md
-├── setup.py
-└── .gitignore
+└── setup.py
 ```
 
 - **`calculator/`**: 계산기 모듈이 포함된 디렉토리입니다 (`basic.py`, `engineering.py`, `utils.py`).
